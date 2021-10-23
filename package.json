@@ -22,5 +22,11 @@
     "webpack": "^4.22.0",
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/murtazaB-0/Employee-Project.git",
+    "directory": "Murtaza Bulut"
   }
+
 }
