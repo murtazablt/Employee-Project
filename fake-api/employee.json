@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Murtaza Bulut",
+      "department": "IT",
+      "salary": 14000,
+      "id": 1
+    },
+    {
+      "name": "Mustafa Murat Coşkun",
+      "department": "IT",
+      "salary": 8000,
+      "id": 2
+    },
+    {
+      "name": "Hüseyin Bulut",
+      "department": "Pazarlama",
+      "salary": "16000",
+      "id": 3
+    }
+  ]
+}
